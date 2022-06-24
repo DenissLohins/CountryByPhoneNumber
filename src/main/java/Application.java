@@ -1,7 +1,5 @@
 import console.Console;
-
 import java.io.IOException;
-
 public class Application {
 
 

@@ -1,10 +1,7 @@
 package core;
 
-import domain.CountryEntity;
 import repository.PhoneCodeRepository;
-
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.HashMap;
 
 public class ProcessRequestService {
